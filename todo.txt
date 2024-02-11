@@ -1,0 +1,1 @@
+get auto refocus working on text area on test page 
